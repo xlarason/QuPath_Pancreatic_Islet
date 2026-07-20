@@ -26,7 +26,7 @@ Compatible with other open-source tools:
         - Merges, splits, or simplifies shapes
         - Handles overlap/intersection
   OMERO
-    - server-based system for storing nd organizing large microscopy images 
+    - server-based system for storing and organizing large microscopy images 
     - Labs generating lots of data should be use OMERO for storing large datasets 
     -  link for OMERO 
     
